@@ -30,9 +30,7 @@ body{
     border-bottom: 2px solid white;
 }
 
-
-
-.top-bar{
+.top{
     position: absolute;
     top: 0;
     left: 0;
@@ -42,7 +40,7 @@ body{
     background-color: rgba(0,0,0,.5);
     box-sizing: border-box;
 }
-.top-bar p{
+.top p{
 margin: 0;
 text-align: right;
 }
